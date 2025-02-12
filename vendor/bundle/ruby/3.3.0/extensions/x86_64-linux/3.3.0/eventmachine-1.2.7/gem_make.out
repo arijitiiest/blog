@@ -1,0 +1,19 @@
+current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/hostedtoolcache/Ruby/3.3.7/x64/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250212-1805-wxktpb sitelibdir\=./.gem.20250212-1805-wxktpb clean
+
+current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250212-1805-wxktpb sitelibdir\=./.gem.20250212-1805-wxktpb
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250212-1805-wxktpb sitelibdir\=./.gem.20250212-1805-wxktpb install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250212-1805-wxktpb
+
+current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250212-1805-wxktpb sitelibdir\=./.gem.20250212-1805-wxktpb clean
