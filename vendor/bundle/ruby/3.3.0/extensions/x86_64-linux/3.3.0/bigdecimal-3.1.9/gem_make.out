@@ -28,17 +28,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250212-1805-f6qazx sitelibdir\=./.gem.20250212-1805-f6qazx clean
+make DESTDIR\= sitearchdir\=./.gem.20250212-1784-6w40eh sitelibdir\=./.gem.20250212-1784-6w40eh clean
 
 current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250212-1805-f6qazx sitelibdir\=./.gem.20250212-1805-f6qazx
+make DESTDIR\= sitearchdir\=./.gem.20250212-1784-6w40eh sitelibdir\=./.gem.20250212-1784-6w40eh
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.so
 
 current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250212-1805-f6qazx sitelibdir\=./.gem.20250212-1805-f6qazx install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250212-1805-f6qazx
+make DESTDIR\= sitearchdir\=./.gem.20250212-1784-6w40eh sitelibdir\=./.gem.20250212-1784-6w40eh install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250212-1784-6w40eh
 
 current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250212-1805-f6qazx sitelibdir\=./.gem.20250212-1805-f6qazx clean
+make DESTDIR\= sitearchdir\=./.gem.20250212-1784-6w40eh sitelibdir\=./.gem.20250212-1784-6w40eh clean

@@ -9,16 +9,16 @@ checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/json-2.10.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250212-1805-cdok5r sitelibdir\=./.gem.20250212-1805-cdok5r clean
+make DESTDIR\= sitearchdir\=./.gem.20250212-1784-fnyhqi sitelibdir\=./.gem.20250212-1784-fnyhqi clean
 
 current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/json-2.10.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250212-1805-cdok5r sitelibdir\=./.gem.20250212-1805-cdok5r
+make DESTDIR\= sitearchdir\=./.gem.20250212-1784-fnyhqi sitelibdir\=./.gem.20250212-1784-fnyhqi
 compiling parser.c
 linking shared-object json/ext/parser.so
 
 current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/json-2.10.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250212-1805-cdok5r sitelibdir\=./.gem.20250212-1805-cdok5r install
-/usr/bin/install -c -m 0755 parser.so ./.gem.20250212-1805-cdok5r/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20250212-1784-fnyhqi sitelibdir\=./.gem.20250212-1784-fnyhqi install
+/usr/bin/install -c -m 0755 parser.so ./.gem.20250212-1784-fnyhqi/json/ext
 
 current directory: /home/runner/work/blog/blog/vendor/bundle/ruby/3.3.0/gems/json-2.10.1/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250212-1805-cdok5r sitelibdir\=./.gem.20250212-1805-cdok5r clean
+make DESTDIR\= sitearchdir\=./.gem.20250212-1784-fnyhqi sitelibdir\=./.gem.20250212-1784-fnyhqi clean
