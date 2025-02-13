@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Calcutta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Arijit Chowdhury                         # the main title
 
-tagline: Software Engineer   # it will display as the sub-title
+tagline: A passionate software engineer with a deep interest in machine learning, MLOps, and Backend Development.   # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-
+  A blog repo to store & share knowledge about MLOps, DevOps, Machine Learning, Backend Development.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://arijitiiest.github.io'
@@ -27,8 +27,8 @@ url: 'https://arijitiiest.github.io'
 github:
   username: arijitiiest             # change to your github username
 
-#twitter:
-#  username: twitter_username            # change to your twitter username
+twitter:
+  username: arijitiiest            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -86,7 +86,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -117,10 +117,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:   arijitiiest/blog           # <gh-username>/<repo>
-    repo_id: R_kgDOIX2AIA
-    category: Announcements
-    category_id: DIC_kwDOIX2AIM4CSZh3
+    repo: arijitiiest/blog          # <gh-username>/<repo>
+    repo_id: R_kgDON3n2oQ
+    category: General
+    category_id: DIC_kwDON3n2oc4Cm7FA
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
