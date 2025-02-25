@@ -1,2 +1,3 @@
 ---
 BUNDLE_PATH: "/home/runner/work/blog/blog/vendor/bundle"
+BUNDLE_DEPLOYMENT: "true"
